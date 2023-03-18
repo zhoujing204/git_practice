@@ -1,7 +1,6 @@
 name = 'Jason'
 guest = 'Tom'
 guest2 = 'Jerry'
-
 welcome_message = "You are welcome to my home."
 email = "support@github.com"
 
