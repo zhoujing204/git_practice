@@ -1,6 +1,8 @@
 name = 'Jason'
 guest = 'Tom'
 
+welcome_message = "You are welcome to my home."
+
 print("Hello Git world!")
 print("Hello everyone.")
 print(f'Hello {name}!')
